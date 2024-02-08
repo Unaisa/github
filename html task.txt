@@ -1,0 +1,6 @@
+Html
+Css
+Javascript
+React 
+MangoDB
+Node js
